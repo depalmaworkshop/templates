@@ -1,0 +1,23 @@
+**/.DS_Store
+.obsidian
+
+# Supabase
+.env
+.env.*
+!.env.example
+.keys
+
+# Local development
+node_modules/
+.DS_Store
+
+# Build directories
+dist/
+build/
+
+# Logs
+*.log
+
+.vscode
+
+_Supabase Objects - */
