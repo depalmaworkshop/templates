@@ -1,24 +1,3 @@
-<!-- 
-TEMPLATE: LICENSE - CC BY-SA 4.0
-VERSION: 1.0.0
-
-UPDATED: 2025-08-15
-AUTHOR: DePalma Workwear Limited
-
-INSTRUCTIONS:
-1. Save this file as "LICENSE" (no file extension) in your repository root
-2. Update the copyright year if needed
-3. Verify the company name is correct: DePalma Workwear Limited
-4. No other modifications needed unless using for personal projects
-
-For personal/non-DePalma Workshop projects:
-- Replace "DePalma Workwear Limited" with your name or organization
-- Update the GitHub and website URLs or remove them
-
-CHANGELOG:
-- v1.0.0 (2025-08-15): Initial template with company info and instructions
--->
-
 # Creative Commons Attribution-ShareAlike 4.0 International
 
 Copyright (c) 2025 DePalma Workwear Limited  
@@ -39,14 +18,3 @@ Under the following terms:
 
 To view a copy of this license, visit:
 https://creativecommons.org/licenses/by-sa/4.0/
-
-<!-- 
-ATTRIBUTION TEMPLATE (uncomment and modify if this work includes other CC BY-SA content):
-
----
-
-## Attributions
-
-- [Work Name] by [Author] - [URL]
-- [Component] by [Creator] - [Source]
--->

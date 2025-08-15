@@ -12,7 +12,7 @@ Standard templates for consistent project setup and documentation across all DeP
 
 ```bash
 # Download a license template
-curl -o LICENSE https://raw.githubusercontent.com/depalmaworkshop/templates/main/license/template-license-cc-by-sa-4.0.md
+curl -o LICENSE https://raw.githubusercontent.com/depalmaworkshop/templates/main/licenses/template-license-cc-by-sa-4.0.md
 
 # Download a README template
 curl -o README.md https://raw.githubusercontent.com/depalmaworkshop/templates/main/readme/template-readme-generic.md
@@ -25,7 +25,7 @@ curl -o .gitignore https://raw.githubusercontent.com/depalmaworkshop/templates/m
 
 ```
 templates/
-├── license/
+├── licenses/
 │   └── template-license-cc-by-sa-4.0.md
 ├── readme/
 │   └── template-readme-generic.md
@@ -33,7 +33,7 @@ templates/
 │   ├── template-gitignore-generic.md
 │   ├── template-pull-request.md
 │   └── template-issue-bug.md
-└── doc/
+└── docs/
     ├── template-contributing.md
     ├── template-security.md
     └── template-code-of-conduct.md
