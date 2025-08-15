@@ -1,3 +1,7 @@
+---
+created: 2025-08-15T14:42
+updated: 2025-08-15T21:17
+---
 <!-- 
 TEMPLATE: README - Generic/Universal
 VERSION: 1.0.0
@@ -72,8 +76,8 @@ SECTION GUIDE:
 
 ```
 [root]/
-├── [folder]/           # [Description of what this contains]
-├── [folder]/           # [Description of what this contains]
+├── [folder]/          # [Description of what this contains]
+├── [folder]/          # [Description of what this contains]
 │   ├── [subfolder]/   # [Description]
 │   └── [file]         # [Description]
 ├── [file]             # [Description]
@@ -105,14 +109,14 @@ SECTION GUIDE:
 [Choose appropriate section based on project type]
 
 ### Available Commands
-| Command | Description | Example |
-|---------|-------------|---------|
+| Command     | Description    | Example           |
+| ----------- |:-------------- | ----------------- |
 | `[command]` | [What it does] | `[example usage]` |
 | `[command]` | [What it does] | `[example usage]` |
 
 ### API Reference
-| Endpoint | Method | Description |
-|----------|--------|-------------|
+| Endpoint      | Method     | Description    |
+| ------------- |:---------- | -------------- |
 | `/[endpoint]` | [GET/POST] | [What it does] |
 | `/[endpoint]` | [GET/POST] | [What it does] |
 
