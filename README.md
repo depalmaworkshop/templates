@@ -1,3 +1,7 @@
+---
+created: 2025-08-15T14:42
+updated: 2025-08-16T08:06
+---
 # DePalma Workshop Templates
 
 Reusable templates and boilerplate files for DePalma Workshop projects.
@@ -26,7 +30,8 @@ curl -o .gitignore https://raw.githubusercontent.com/depalmaworkshop/templates/m
 ```
 templates/
 ├── licenses/
-│   └── template-license-cc-by-sa-4.0.md
+│   ├── template-license-cc-by-sa-4.0.md
+│   └── template-license-proprietary.md
 ├── readme/
 │   └── template-readme-generic.md
 ├── github/
